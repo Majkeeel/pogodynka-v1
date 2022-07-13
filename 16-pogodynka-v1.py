@@ -1,4 +1,3 @@
-from locale import DAY_1
 import requests
 import json
 
